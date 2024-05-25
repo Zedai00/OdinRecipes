@@ -6,7 +6,7 @@ The Project is about creating a Recipes Website that contains Three recipes usin
 
 - index.html contains the main structure of the website with links to other recipes
 - Recipes folder containes individual html files for different recipes
-- images folder contains images related to each recipes
+- Images folder contains images related to each recipes
 
 ### Learned
 
