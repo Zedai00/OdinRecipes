@@ -1,0 +1,33 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+  background: #40e090;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  background: #7efdf1;
+  margin-top: 0;
+  padding: 10px;
+}
+
+ol {
+  text-align: center;
+  list-style: none;
+}
+
+li {
+  padding: 10px;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+  border: solid 1px brown;
+  padding: 5px;
+  background: brown;
+}
